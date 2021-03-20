@@ -144,7 +144,7 @@ function getuvIndex(lat, lon) {
 //five-day forecast 3 hour increments
 function forecast(cityID) {
   var fiveDayForecastAPI =
-    "http://api.openweathermap.org/data/2.5/forecast?q=" + cityID + "&appid=" + myAPI;
+    "https://api.openweathermap.org/data/2.5/forecast?q=" + cityID + "&appid=" + myAPI;
 
   fetch(fiveDayForecastAPI)
     .then(function (response) {
