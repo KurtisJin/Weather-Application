@@ -2,10 +2,10 @@
 Look up weather in your area
 
 ## Description:
-
+This application is designed for you to search by city and pull up the current weather well as future weather. 
 
 ## Link to Project:
-
+https://kurtisjin.github.io/Weather-Application/
 
 ## Content:
 1. index.html
