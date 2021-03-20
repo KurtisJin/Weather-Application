@@ -170,30 +170,3 @@ function forecast(cityID) {
        }
     });
 }
-
-
-    //     <div class="col-sm-2 bg-primary forecast text-white ml-2 mb-3 p-2 mt-2 rounded" >
-        //     <p id="date0"></p>
-        //     <p id="img0"></p>
-        //     <p>Temp:<span id="temp0"></span></p>
-        //     <p>Humidity:<span id="humidity0"></span></p>
-        // </div>
-        // let dates = document.createElement('date');
-        // let images = document.createElement('images');
-        // let temp = document.createElement('temp');
-        // let humidity = document.createElement('humidity');
-
-        // dates.text(items[i]).body;
-        // images.text(items[i]);
-        // temp.text(items[i]);
-        // humidity.text(items[i]);
-
-        // dates.append(dates);
-        // fiveDayContainer.append(images);
-        // fiveDayContainer.append(temp);
-        // fiveDayContainer.append(humidity);
-
-        // fiveDate + i.textcontent = "";
-        // image + i.textContent = "";
-        // fiveTemp + i.textContent = "";
-        // fiveHumid + i.textContent = "";
