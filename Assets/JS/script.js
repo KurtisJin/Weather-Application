@@ -129,7 +129,7 @@ function clearHistory(event){
 //function to grab uv index
 function getuvIndex(lat, lon) {
   var uvIndexAPI =
-    `http://api.openweathermap.org/data/2.5/uvi?lat=${lat}&lon=${lon}&appid=` +
+    `https://api.openweathermap.org/data/2.5/uvi?lat=${lat}&lon=${lon}&appid=` +
     myAPI;
   fetch(uvIndexAPI)
     .then(function (response) {
