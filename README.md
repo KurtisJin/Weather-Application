@@ -22,7 +22,7 @@ Test was done on Chrome and no issue was found
 ## Author:
 Kurtis Jin
 
-##Instructions
+## Instructions
 ![image](https://user-images.githubusercontent.com/66793863/111888116-ad010100-89a7-11eb-8b12-a501c0de95a3.png)
 
 ### 1. Type in the city in the search bar
