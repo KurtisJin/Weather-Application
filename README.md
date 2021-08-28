@@ -21,7 +21,11 @@ This application is designed for you to search by city and pull up the current w
  jquery, vs code, gitbash
 
 ## Usage:
-1. Please go to the webpage and type in the city you want to look up weather for.
+![image](https://user-images.githubusercontent.com/66793863/111888116-ad010100-89a7-11eb-8b12-a501c0de95a3.png)
+
+### 1. Type in the city in the search bar
+### 2. click the 🔍 to search and your city and the current weather will be displayed on the right. 
+
 
 ## Website
 https://kurtisjin.github.io/Weather-Application/
@@ -34,17 +38,17 @@ Made by: Kurtis Jin
 2. Your Badge link: <a href = "https://opensource.org/licenses/MIT">License Link</a>
 3. Your Badge Readme: <a href = "https://gist.github.com/ckib16/8732561535ed766cd6b8">MIT Guide</a>
 
-## Running Test:
-Test was done on Chrome and no issue was found
-
 ## Features:
-Weather API, 3 hour increment weather.
+Rest API, 3 hour increment weather. 
 
-## Instructions
-![image](https://user-images.githubusercontent.com/66793863/111888116-ad010100-89a7-11eb-8b12-a501c0de95a3.png)
+## Contribute:
+N/A
 
-### 1. Type in the city in the search bar
-### 2. click the 🔍 to search and your city and the current weather will be displayed on the right. 
+## Test:
+Test was done using node.js with visual studio code and chrome.
 
-
+## Questions:
+1. Please click the link for Github: <a href = "https://github.com/kurtisjin">My Github Site</a>
+2. Please click the link for my Website: <a href = "https://www.kurtisjin.com">My Website</a>
+3. Email: kurtisjin21@gmail.com 
 
